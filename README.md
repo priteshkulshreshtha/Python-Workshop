@@ -29,5 +29,21 @@ Python is an **interpreted high-level general-purpose programming language**. It
 - Allows to automate wherever possible
 
 
+# Event Content (Python)
+- Module 1 : Introduction to Python
+  - Intro to Python
+  - I/O in Python
+  - Comments
+  - Variables
+  - Data Types and Type Casting
+- Module 2 : Non-Primitive Data Structures in Python
+  - Strings
+  - List
+  - Sets
+  - Dictionary
+  - Tuples
+  - Operators
+
 # Contributors
-- [Pritesh Kulshreshtha](https://github.com/priteshkulshreshtha)
+- [Pritesh Kulshreshtha](https://github.com/priteshkulshreshtha "Pritesh Kulshreshtha")
+- [Hardik Pachory](https://github.com/hardik-pachory "Hardik Pachory")
