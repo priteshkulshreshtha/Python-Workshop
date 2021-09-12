@@ -36,6 +36,8 @@ Python is an **interpreted high-level general-purpose programming language**. It
   - Comments
   - Variables
   - Data Types and Type Casting
+  
+  
 - Module 2 : Non-Primitive Data Structures in Python
   - Strings
   - List
