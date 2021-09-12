@@ -1,5 +1,5 @@
 # VICHAAR
-On the occasion of Engineers Day 2K21, [DSC-JGI](https://gdsc.community.dev/jiet-group-of-institutions-jodhpur/) is organizing an event named "Vichaar". The event aims to make things clear about how to work on an idea from research to execution. Nowadays, many ideas fail to turn into realities because of a lack of research. The event will give you exposure to the first step, if taken with care, can lead to wonders. Later, we will know how Python can help in working on your ideas by gaining some knowledge of it.
+On the occasion of Engineers Day 2K21, [DSC-JGI](https://gdsc.community.dev/jiet-group-of-institutions-jodhpur/ "Developer Student Club-JGI") is organizing an event named "Vichaar". The event aims to make things clear about how to work on an idea from research to execution. Nowadays, many ideas fail to turn into realities because of a lack of research. The event will give you exposure to the first step, if taken with care, can lead to wonders. Later, we will know how Python can help in working on your ideas by gaining some knowledge of it.
 
 
 # What is Python?
