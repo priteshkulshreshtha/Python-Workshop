@@ -19,3 +19,15 @@ Python is an **interpreted high-level general-purpose programming language**. It
   - PyTorch
   - sklearn
 - Game Development    
+
+
+# Why is Python so popular?
+- Easy to learn
+- Versatile
+- More Readable
+- Out of the box language
+- Allows to automate wherever possible
+
+
+# Contributors
+- [Pritesh Kulshreshtha](https://github.com/priteshkulshreshtha)
