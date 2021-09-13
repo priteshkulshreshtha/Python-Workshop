@@ -49,4 +49,4 @@ Python is an **interpreted high-level general-purpose programming language**. It
 # Contributors
 - [Pritesh Kulshreshtha](https://github.com/priteshkulshreshtha "Pritesh Kulshreshtha")
 - [Arsh D. Vijay](https://github.com/Arsh-D-Vijay)
-- [Arpit Codes](https://github.com/Arpit-Codes)
+- [Arpit](https://github.com/Arpit-Codes)
