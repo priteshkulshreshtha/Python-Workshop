@@ -38,7 +38,7 @@ Python is an **interpreted high-level general-purpose programming language**. It
   - Data Types and Type Casting
   
   
-- Module 2 : Non-Primitive Data Structures in Python
+- Module 2 : Non-Primitive Data Types in Python
   - Strings
   - List
   - Sets
@@ -49,4 +49,7 @@ Python is an **interpreted high-level general-purpose programming language**. It
 # Contributors
 - [Pritesh Kulshreshtha](https://github.com/priteshkulshreshtha "Pritesh Kulshreshtha")
 - [Arsh D. Vijay](https://github.com/Arsh-D-Vijay)
-- [Arpit](https://github.com/Arpit-Codes)
+- [Arpit Goswami](https://github.com/Arpit-Codes)
+- [Hardik Pachori]
+- [Anupam Mishra]
+- [Sumit Panday]
