@@ -18,7 +18,8 @@ Python is an **interpreted high-level general-purpose programming language**. It
 - AI Applications
   - PyTorch
   - sklearn
-- Game Development    
+- Game Development
+  - PyGame    
 
 
 # Why is Python so popular?
@@ -51,5 +52,5 @@ Python is an **interpreted high-level general-purpose programming language**. It
 - [Arsh D. Vijay](https://github.com/Arsh-D-Vijay)
 - [Arpit Goswami](https://github.com/Arpit-Codes)
 - [Hardik Pachori]
-- [Anupam Mishra]
+- [Anupam Mishra](https://github.com/anupamishra333 "Anupam Mishra")
 - [Sumit Panday]
