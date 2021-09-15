@@ -51,6 +51,6 @@ Python is an **interpreted high-level general-purpose programming language**. It
 - [Pritesh Kulshreshtha](https://github.com/priteshkulshreshtha "Pritesh Kulshreshtha")
 - [Arsh D. Vijay](https://github.com/Arsh-D-Vijay " Arsh Dinesh Vijayavargiya")
 - [Arpit Goswami](https://github.com/Arpit-Codes " Arpit Goswami" )
-- [Hardik Pachori](https://github.com/hardik-pachory " Hardik Pachori")
+- [Hardik Pachori](https://github.com/hardik-pachory " Hardik Pachory")
 - [Anupam Mishra](https://github.com/anupamishra333 "Anupam Mishra")
 - [Sumit Panday](https://github.com/sumitsp " Sumit Pandey ")
