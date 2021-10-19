@@ -1,0 +1,10 @@
+#Basic assignment:
+# WAP to calculate factorial of a number
+
+def fact():
+  fact = 1
+  while num!=0:
+    fact = num*fact
+    num-=1
+    
+  return fact  
